@@ -13,15 +13,15 @@ $heading-line-height: 1.125 !default;
 $size-large:  1.25rem;
 $size-xlarge: 1.5rem;
 
-$text-color:       #fdfdfd !default;
+$text-color:       #333333 !default;
 $background-color: #2a1e20 !default;
-$primary-color:    #9a728d !default;
+$primary-color:    #30c550 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
-$logo-height:        100px !default;
+$logo-height:        200px !default;
 $content-width:      640px !default;
 $content-min-margin: 20px !default;
 

@@ -5,6 +5,4 @@ permalink: /
 
 # Coming soon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+Unleash Wellness wants to introduce high-quality daily supplements in the life of pets and pet parents.
